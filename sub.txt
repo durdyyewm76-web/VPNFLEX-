@@ -1,2 +1,2 @@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@23.227.38.65:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=I78nThHk0Q.sOlEnTrAa.InFo&fp=chrome&allowinsecure=0&type=ws&sni=I78nThHk0Q.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6+VPNFLEX
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@23.227.38.65:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=I78nThHk0Q.sOlEnTrAa.InFo&fp=chrome&allowinsecure=0&type=ws&sni=I78nThHk0Q.sOlEnTrAa.InFo#%F0%9F%87%B9%F0%9F%87%B2VPNFLEX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NXMydU8ySkF1U2k4RkNoM3NkYndn@94.20.80.125:8443#%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaGVObDh1bGZIMldKZFNuWHZ6YXBo@5.59.233.225:8443#%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F
